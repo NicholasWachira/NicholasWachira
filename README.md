@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NicholasWachira
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Vue js, LiveWire
-- 💞️ I’m looking to collaborate on Laravel Projects
+- 🌱 I’m a Full stack Developer
+- 💞️ I’m looking to collaborate on Laravel Application Projects
 - 📫 How to reach me wachiranicholas60@gmail.com
 
 <!---
