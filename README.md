@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NicholasWachira
-- 👀 I’m interested in Web & Mobile Development
+- 👀 I’m interested in Web & Mobile Development with Vue, Laravel and Flutter
 - 🌱 I’m a Full stack Developer
 - 💞️ I’m looking to collaborate on Laravel Application Projects
 - 📫 How to reach me wachiranicholas60@gmail.com
